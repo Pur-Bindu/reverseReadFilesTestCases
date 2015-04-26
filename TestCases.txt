@@ -1,0 +1,8 @@
+Test the Code for the following:
+
+1) Execute with no command line arguments
+2) Execute with one value
+3) Execute with two command line arguments
+4) Excute with two or more command line arguments
+5) Pass Integers and speacial characters for command Line arguments
+6) Exception Handling if you try to open a file which doesn't exist
